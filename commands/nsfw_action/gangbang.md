@@ -1,4 +1,4 @@
 # Gangbang Command
 
 ## Usage:
-`ad!gangbang` - Gangbangs the mentioned user 
+`ad!gangbang` - Gangbangs the mentioned users.
