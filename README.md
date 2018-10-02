@@ -1,0 +1,2 @@
+# AruDocs
+Aru! Documentation
