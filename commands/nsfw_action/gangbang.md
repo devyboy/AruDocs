@@ -1,4 +1,4 @@
 # Gangbang Command
 
 ## Usage:
-`ad!gangbang` - TODO DOCS
+`ad!gangbang` - Gangbangs the mentioned user 
