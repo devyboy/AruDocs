@@ -5,9 +5,9 @@ Creates a new poll. It supports most emoji and local emotes.
 
 ## Example:
 ```
-[ad!poll] Should we play Fortnite or PUGB?
+[ad!poll] Should we play Fortnite or PUBG?
 :one: Fornite
-:two: PUGB
+:two: PUBG
 ```
 
 ## Note:
